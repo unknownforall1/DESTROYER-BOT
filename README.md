@@ -22,7 +22,4 @@
   
 ##
 ## SUPPORT GROUP
-   - JOIN [ SUPPORT GROUP](https://t.me/) for any assistance.
-
-## Credits
-   - Thanks to [ Yukki Team](https://t.me/officialyukki).
+   - JOIN [ SUPPORT GROUP](https://t.me/TEAM_SHIELD_X) for any assistance.
