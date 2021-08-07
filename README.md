@@ -4,7 +4,7 @@
 ##   - [SIDHANT](https://t.me/siddhant_devil)
 
 <p align="center">
-  <img src="https://telegra.ph/file/d1169eb61fda56de23182.jpg">
+  <img src="https://telegra.ph/file/06ab8f009e82432a1a85a.jpg">
 </p>
 
 ## 🚀 Deploy on Heroku 
@@ -13,12 +13,14 @@
 ## String Session
 
  Requirement of API ID and API HASH ( SPAM OP )
-   - 
+   - Generate on Repl [![RUN ON REPL.IT](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@unknownforall1/SPAM-BOT-REPL-BY-SIDDHANT-DEVIL#main.py)
+
+
 
   
 ##
 ## SUPPORT GROUP
-   - JOIN [ SUPPORT GROUP](https://t.me/indian_opp) for any assistance.
+   - JOIN [ SUPPORT GROUP](https://t.me/) for any assistance.
 
 ## Credits
    - Thanks to [ Yukki Team](https://t.me/officialyukki).
