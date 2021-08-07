@@ -1,4 +1,7 @@
-# 𝗢𝗣 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 ( Modified Version Of yukki )
+# DESTROYER-BOT 
+
+##  CREATED BY
+##   - [SIDHANT](https://t.me/siddhant_devil)
 
 <p align="center">
   <img src="https://telegra.ph/file/d1169eb61fda56de23182.jpg">
@@ -9,19 +12,13 @@
 
 ## String Session
 
-NO Requirement of API ID and API HASH ( SPAM MAY BE SLOW )
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@unknownforall1/INDIAN-OP-SPAM-BOT#main.py)
-   - Termux : `sh -c "$(curl -fsSL https://da.gd/YukkiBot)"` (Use `python string_session.py` next time to generate another string.)
+ Requirement of API ID and API HASH ( SPAM OP )
+   - 
 
-REQUIREMENT OF APP ID AND  API HASH (SPAM OP & ID BAN CHANCE WILL BE REDUCED)
-
-  - GENERATE ON REPL [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@unknownforall1/INDIAN-OP-SPAM-BOT-API-HAS-APP-ID-NEEDED#main.py)
-
+  
 ##
 ## SUPPORT GROUP
-   - JOIN [INDIAN OP SUPPORT GROUP](https://t.me/indian_opp) for any assistance.
+   - JOIN [ SUPPORT GROUP](https://t.me/indian_opp) for any assistance.
 
 ## Credits
-   - Special credits to [Cat Userbot](https://github.com/sandy1709/catuserbot).
-   - Thanks to [ YUKII Team](https://t.me/officialyukki).
-   - Spcial thanks to :- [@sameerpanthi](https://github.com/sameerpanthi)
+   - Thanks to [ Yukki Team](https://t.me/officialyukki).
