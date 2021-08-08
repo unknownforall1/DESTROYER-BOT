@@ -17,9 +17,9 @@ async def spammer(event):
     sandy = await event.get_reply_message()
     cat = ("".join(event.text.split(maxsplit=1)[1:])).split(" ", 1)
     counter = int(cat[0])
-    if counter > 20:
+    if counter > 20000:
         sleeptimet = 0.02
-        sleeptimem = 0.4
+        sleeptimem = 0.1
     else:
         sleeptimet = 0.008
         sleeptimem = 0.01
